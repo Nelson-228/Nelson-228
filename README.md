@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Nelson Rueda
 
-<!--
-**Nelson-228/Nelson-228** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring software engineer focused on building clean, accessible, AI-powered tools for productivity and clarity.
 
-Here are some ideas to get you started:
+### 🔧 Projects & Goals
+- 🎯 Preparing for UCLA CS transfer (Fall 2027) + Google STEP Internship (2026)
+- 🧠 Currently building Flowivity – a minimalist planner powered by AI (Launching June 2025)
+- 📓 Documenting my SWE journey here: [swe-study-log](https://github.com/Nelson-228/swe-study-log)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Tech Stack
+`Python` | `Firebase` | `Figma` | `GPT-4o` | `Bolt.new` | `Stripe` | `Git` | `Locofy`
+
+### 📈 Roadmap (2025–2026)
+- ✅ HackMESA 2025 – Best in Accessibility
+- 🚧 AWS Cloud Quest – Cloud Practitioner (in progress)
+- 🚀 Launching 2 monetized web apps by Fall 2025
+
+### 📫 Connect with Me
+- [LinkedIn](https://linkedin.com/in/nelson-rueda)
+- 📍 Los Angeles, CA
